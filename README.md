@@ -10,6 +10,9 @@ Entering and exiting animations are not working properly on the Android platform
 ### Expected Behavior
 Components should animate in and out smoothly and remain visible after entering animations are complete.
 
+### Screen Record
+https://github.com/user-attachments/assets/0bbc50ba-25f0-4064-b889-afaeb6155076
+
 ### Environment
 - Platform: Android
 - React Native Reanimated: 3.19.3
